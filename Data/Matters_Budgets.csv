@@ -1,0 +1,151 @@
+Matter Number,Client Name,Practice Area,Budget Amount ($),Budget Status,Accrual Amount ($),Matter Status
+MAT-0001,Northstar Medical Group,Insurance Defense,429511,Pending Approval,11388.58,Closed
+MAT-0002,Cedar Ridge Technologies,Intellectual Property,438192,Approved,73136.59,Open
+MAT-0003,Bluehaven Energy,Insurance Defense,370417,Approved,60654.35,Open
+MAT-0004,Summit Retail Holdings,Intellectual Property,202018,Approved,63373.12,Open
+MAT-0005,Evergreen Financial Partners,Intellectual Property,215601,Pending Approval,69081.17,Open
+MAT-0006,Redwood Manufacturing,Corporate,68022,Approved,5451.7,Open
+MAT-0007,Silverline Logistics,Employment,414045,Pending Approval,84628.87,Open
+MAT-0008,Pinnacle Education Services,M&A,372949,Approved,33201.75,On Hold
+MAT-0009,Westbridge Hospitality,Intellectual Property,442942,Pending Approval,43608.02,Open
+MAT-0010,Harborstone Insurance,Employment,154642,Not Approved,29524.96,On Hold
+MAT-0011,Clearwater Biotech,Intellectual Property,313012,Approved,65008.86,Open
+MAT-0012,Ironwood Automotive,Commercial Litigation,299833,Approved,56147.27,Open
+MAT-0013,Meadowbrook Foods,Insurance Defense,318616,Approved,48601.67,Closed
+MAT-0014,Atlas Property Group,Corporate,277918,Approved,30506.76,Open
+MAT-0015,Brightpath Communications,Corporate,355370,Approved,58141.05,Open
+MAT-0016,Northstar Medical Group,Employment,376731,Not Approved,4014.54,Open
+MAT-0017,Cedar Ridge Technologies,M&A,239823,Pending Approval,33032.95,Open
+MAT-0018,Bluehaven Energy,M&A,55871,Not Approved,7576.59,Open
+MAT-0019,Summit Retail Holdings,M&A,53791,Approved,13258.03,Open
+MAT-0020,Evergreen Financial Partners,M&A,191390,Approved,41313.03,On Hold
+MAT-0021,Redwood Manufacturing,Corporate,246840,Approved,40683.88,Open
+MAT-0022,Silverline Logistics,Insurance Defense,460826,Approved,65810.71,Closed
+MAT-0023,Pinnacle Education Services,Intellectual Property,376457,Approved,17233.45,Closed
+MAT-0024,Westbridge Hospitality,Intellectual Property,380900,Approved,40913.46,On Hold
+MAT-0025,Harborstone Insurance,Corporate,202027,Not Approved,51282.41,Open
+MAT-0026,Clearwater Biotech,Employment,345073,Pending Approval,53650.18,Closed
+MAT-0027,Ironwood Automotive,Corporate,34065,Approved,2176.3,On Hold
+MAT-0028,Meadowbrook Foods,Insurance Defense,428644,Approved,46721.93,Open
+MAT-0029,Atlas Property Group,Regulatory,446268,Approved,57796.89,Open
+MAT-0030,Brightpath Communications,Insurance Defense,275144,Approved,36744.82,Open
+MAT-0031,Northstar Medical Group,Insurance Defense,377082,Approved,15710.15,Open
+MAT-0032,Cedar Ridge Technologies,Employment,164884,Approved,2310.33,On Hold
+MAT-0033,Bluehaven Energy,Insurance Defense,76380,Approved,24439.14,Open
+MAT-0034,Summit Retail Holdings,M&A,51104,Approved,3187.15,Open
+MAT-0035,Evergreen Financial Partners,M&A,244110,Approved,73266.22,Closed
+MAT-0036,Redwood Manufacturing,Corporate,474514,Approved,9261.05,Open
+MAT-0037,Silverline Logistics,Insurance Defense,262759,Pending Approval,33543.48,Open
+MAT-0038,Pinnacle Education Services,Commercial Litigation,125083,Approved,17067.08,Open
+MAT-0039,Westbridge Hospitality,Real Estate,336636,Approved,9835.65,Open
+MAT-0040,Harborstone Insurance,Insurance Defense,313490,Pending Approval,45234.73,Open
+MAT-0041,Clearwater Biotech,Employment,289308,Approved,28468.67,Closed
+MAT-0042,Ironwood Automotive,Intellectual Property,30716,Approved,10744.44,Closed
+MAT-0043,Meadowbrook Foods,Regulatory,200975,Pending Approval,32421.83,Open
+MAT-0044,Atlas Property Group,Regulatory,49185,Pending Approval,16154.18,Open
+MAT-0045,Brightpath Communications,Real Estate,32219,Not Approved,7083.98,Open
+MAT-0046,Northstar Medical Group,Insurance Defense,204589,Approved,43438.24,Closed
+MAT-0047,Cedar Ridge Technologies,Insurance Defense,362340,Pending Approval,58082.7,Closed
+MAT-0048,Bluehaven Energy,Commercial Litigation,369261,Not Approved,69146.41,On Hold
+MAT-0049,Summit Retail Holdings,Insurance Defense,304224,Approved,81963.62,Open
+MAT-0050,Evergreen Financial Partners,Insurance Defense,34765,Approved,5509.83,Open
+MAT-0051,Redwood Manufacturing,Insurance Defense,256359,Approved,29520.43,Open
+MAT-0052,Silverline Logistics,Corporate,155928,Approved,49507.78,Open
+MAT-0053,Pinnacle Education Services,Employment,389446,Approved,64316.2,On Hold
+MAT-0054,Westbridge Hospitality,Employment,368247,Approved,35332.5,On Hold
+MAT-0055,Harborstone Insurance,Intellectual Property,195269,Not Approved,13718.63,Open
+MAT-0056,Clearwater Biotech,Real Estate,62797,Pending Approval,1178.61,On Hold
+MAT-0057,Ironwood Automotive,Employment,263841,Pending Approval,26764.4,Open
+MAT-0058,Meadowbrook Foods,Real Estate,58228,Approved,5133.96,Closed
+MAT-0059,Atlas Property Group,Employment,292055,Approved,21043.89,Open
+MAT-0060,Brightpath Communications,Commercial Litigation,358691,Pending Approval,74089.56,On Hold
+MAT-0061,Northstar Medical Group,Employment,131892,Pending Approval,19898.52,Closed
+MAT-0062,Cedar Ridge Technologies,Intellectual Property,437566,Pending Approval,34673.51,Open
+MAT-0063,Bluehaven Energy,M&A,209073,Approved,7519.6,Open
+MAT-0064,Summit Retail Holdings,M&A,138595,Pending Approval,27598.48,Open
+MAT-0065,Evergreen Financial Partners,Commercial Litigation,172831,Pending Approval,36293.3,Open
+MAT-0066,Redwood Manufacturing,Commercial Litigation,255849,Approved,66229.07,Open
+MAT-0067,Silverline Logistics,Commercial Litigation,413190,Approved,56815.75,Open
+MAT-0068,Pinnacle Education Services,Real Estate,215507,Approved,16007.49,Open
+MAT-0069,Westbridge Hospitality,Employment,336551,Pending Approval,32804.45,Open
+MAT-0070,Harborstone Insurance,Intellectual Property,99642,Approved,10414.27,Open
+MAT-0071,Clearwater Biotech,Real Estate,196519,Approved,58595.04,On Hold
+MAT-0072,Ironwood Automotive,Employment,116959,Approved,12796.69,Open
+MAT-0073,Meadowbrook Foods,Real Estate,427828,Approved,75615.74,Open
+MAT-0074,Atlas Property Group,M&A,178033,Approved,13011.64,On Hold
+MAT-0075,Brightpath Communications,Real Estate,220278,Not Approved,66736.55,Open
+MAT-0076,Northstar Medical Group,Employment,257331,Approved,39670.53,Closed
+MAT-0077,Cedar Ridge Technologies,Real Estate,463407,Approved,9480.21,Closed
+MAT-0078,Bluehaven Energy,Real Estate,356291,Not Approved,689.89,On Hold
+MAT-0079,Summit Retail Holdings,Insurance Defense,84081,Approved,139.56,Open
+MAT-0080,Evergreen Financial Partners,Intellectual Property,332470,Pending Approval,3761.55,Open
+MAT-0081,Redwood Manufacturing,M&A,92544,Approved,10750.56,Open
+MAT-0082,Silverline Logistics,Insurance Defense,34029,Pending Approval,7660.72,Open
+MAT-0083,Pinnacle Education Services,Intellectual Property,400575,Pending Approval,76816.91,Open
+MAT-0084,Westbridge Hospitality,Intellectual Property,85638,Pending Approval,27907.05,Open
+MAT-0085,Harborstone Insurance,Real Estate,274665,Not Approved,22195.2,Open
+MAT-0086,Clearwater Biotech,Employment,216223,Approved,39471.51,Open
+MAT-0087,Ironwood Automotive,Insurance Defense,222438,Pending Approval,22234.6,Open
+MAT-0088,Meadowbrook Foods,Real Estate,363358,Approved,36367.97,Open
+MAT-0089,Atlas Property Group,Commercial Litigation,424597,Not Approved,69843.6,Open
+MAT-0090,Brightpath Communications,Corporate,371605,Approved,44331.45,Open
+MAT-0091,Northstar Medical Group,M&A,260087,Approved,41275.87,Open
+MAT-0092,Cedar Ridge Technologies,Employment,207049,Approved,35955.46,Open
+MAT-0093,Bluehaven Energy,Employment,137685,Pending Approval,33827.12,Closed
+MAT-0094,Summit Retail Holdings,Employment,499753,Not Approved,11806.58,Open
+MAT-0095,Evergreen Financial Partners,Insurance Defense,456263,Approved,44082.46,Open
+MAT-0096,Redwood Manufacturing,Employment,177526,Approved,24974.61,Open
+MAT-0097,Silverline Logistics,Corporate,263033,Approved,80456.61,Open
+MAT-0098,Pinnacle Education Services,M&A,140960,Not Approved,101.3,Closed
+MAT-0099,Westbridge Hospitality,Employment,487928,Approved,31440.73,Closed
+MAT-0100,Harborstone Insurance,Real Estate,257247,Approved,18249.88,Open
+MAT-0101,Clearwater Biotech,Corporate,262155,Approved,16522.78,Open
+MAT-0102,Ironwood Automotive,Commercial Litigation,395393,Approved,63822.74,On Hold
+MAT-0103,Meadowbrook Foods,M&A,96507,Approved,29747.05,Open
+MAT-0104,Atlas Property Group,Intellectual Property,139170,Pending Approval,3718.26,Closed
+MAT-0105,Brightpath Communications,Regulatory,343544,Approved,27639.69,Open
+MAT-0106,Northstar Medical Group,Regulatory,137427,Approved,46618.93,Open
+MAT-0107,Cedar Ridge Technologies,Commercial Litigation,240824,Not Approved,84103.36,Open
+MAT-0108,Bluehaven Energy,Real Estate,66518,Approved,13144.43,Open
+MAT-0109,Summit Retail Holdings,Real Estate,185838,Pending Approval,41855.99,On Hold
+MAT-0110,Evergreen Financial Partners,Intellectual Property,434285,Pending Approval,3657.6,Open
+MAT-0111,Redwood Manufacturing,Regulatory,31484,Not Approved,10861.74,Open
+MAT-0112,Silverline Logistics,Insurance Defense,51939,Approved,9548.66,Open
+MAT-0113,Pinnacle Education Services,M&A,68704,Approved,1647.29,Open
+MAT-0114,Westbridge Hospitality,Commercial Litigation,35678,Approved,2433.8,Open
+MAT-0115,Harborstone Insurance,Regulatory,439982,Not Approved,84203.76,On Hold
+MAT-0116,Clearwater Biotech,Commercial Litigation,232324,Approved,30549.13,Open
+MAT-0117,Ironwood Automotive,Employment,479731,Approved,1084.48,Open
+MAT-0118,Meadowbrook Foods,Commercial Litigation,272798,Approved,29855.49,Open
+MAT-0119,Atlas Property Group,Intellectual Property,151187,Approved,34903.88,Closed
+MAT-0120,Brightpath Communications,Employment,133374,Not Approved,45353.08,Closed
+MAT-0121,Northstar Medical Group,Commercial Litigation,429528,Not Approved,18771.56,On Hold
+MAT-0122,Cedar Ridge Technologies,Employment,66784,Approved,7050.91,Open
+MAT-0123,Bluehaven Energy,Commercial Litigation,139168,Not Approved,2189.11,Open
+MAT-0124,Summit Retail Holdings,Intellectual Property,52812,Approved,2412.49,Closed
+MAT-0125,Evergreen Financial Partners,Commercial Litigation,216351,Approved,28942.82,Closed
+MAT-0126,Redwood Manufacturing,Commercial Litigation,319134,Approved,67269.42,On Hold
+MAT-0127,Silverline Logistics,Real Estate,32980,Approved,7082.59,Open
+MAT-0128,Pinnacle Education Services,Insurance Defense,398486,Not Approved,35455.79,On Hold
+MAT-0129,Westbridge Hospitality,Real Estate,414335,Approved,15136.88,Open
+MAT-0130,Harborstone Insurance,M&A,401950,Approved,4271.52,Open
+MAT-0131,Clearwater Biotech,Insurance Defense,244544,Approved,52990.96,Open
+MAT-0132,Ironwood Automotive,Real Estate,214399,Not Approved,56304.28,Open
+MAT-0133,Meadowbrook Foods,Employment,407376,Pending Approval,1734.85,Open
+MAT-0134,Atlas Property Group,Real Estate,283145,Approved,42411.65,Open
+MAT-0135,Brightpath Communications,Commercial Litigation,201553,Approved,26679.08,Open
+MAT-0136,Northstar Medical Group,M&A,259283,Approved,54538.5,Open
+MAT-0137,Cedar Ridge Technologies,Employment,442257,Pending Approval,44944.85,Open
+MAT-0138,Bluehaven Energy,Regulatory,67165,Pending Approval,15750.15,Open
+MAT-0139,Summit Retail Holdings,Commercial Litigation,87876,Pending Approval,8767.74,Open
+MAT-0140,Evergreen Financial Partners,Regulatory,377147,Approved,21234.34,Closed
+MAT-0141,Redwood Manufacturing,Regulatory,355169,Approved,11334.5,Open
+MAT-0142,Silverline Logistics,Intellectual Property,87674,Pending Approval,6391.52,Open
+MAT-0143,Pinnacle Education Services,Employment,288659,Approved,22004.74,Closed
+MAT-0144,Westbridge Hospitality,Insurance Defense,43885,Approved,9139.2,Open
+MAT-0145,Harborstone Insurance,Insurance Defense,173511,Pending Approval,6370.59,Open
+MAT-0146,Clearwater Biotech,Commercial Litigation,211660,Approved,41963.79,On Hold
+MAT-0147,Ironwood Automotive,Intellectual Property,114035,Pending Approval,24837.38,Open
+MAT-0148,Meadowbrook Foods,Real Estate,312413,Not Approved,32880.38,Open
+MAT-0149,Atlas Property Group,Regulatory,49583,Not Approved,2715.81,Open
+MAT-0150,Brightpath Communications,Corporate,123545,Approved,24670.26,Open

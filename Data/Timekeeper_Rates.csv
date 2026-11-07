@@ -1,0 +1,101 @@
+TK ID,Timekeeper Name,Role,Client Name,Vendor Site,Hourly Rate ($),Rate Status
+TK-001,Emerson Murphy,Senior Associate,Northstar Medical Group,Counsellink,394,Approved
+TK-002,Drew Price,Partner,Northstar Medical Group,Billing Point,739,Not Approved
+TK-003,Avery Brooks,Senior Associate,Northstar Medical Group,Counsellink,462,Approved
+TK-004,Drew Bennett,Paralegal,Northstar Medical Group,Counsellink,217,Approved
+TK-005,Drew Brooks,Partner,Meadowbrook Foods,Legal Tracker,795,Not Approved
+TK-006,Casey Morgan,Associate,Ironwood Automotive,Counsellink,298,Approved
+TK-007,Morgan Brooks,Senior Associate,Clearwater Biotech,Collaborati,641,Pending Approval
+TK-008,Reese Sanders,Associate,Summit Retail Holdings,Counsellink,399,Not Approved
+TK-009,Drew Gray,Associate,Meadowbrook Foods,Datacert,265,Not Approved
+TK-010,Alex Foster,Associate,Pinnacle Education Services,Brightflag,434,Approved
+TK-011,Skyler Hayes,Paralegal,Northstar Medical Group,Legal Tracker,285,Approved
+TK-012,Jordan Foster,Partner,Evergreen Financial Partners,Legal Tracker,615,Approved
+TK-013,Jamie Hayes,Associate,Ironwood Automotive,Counsellink,256,Approved
+TK-014,Quinn Hayes,Paralegal,Summit Retail Holdings,Counsellink,156,Not Approved
+TK-015,Parker Murphy,Associate,Redwood Manufacturing,Counsellink,344,Pending Approval
+TK-016,Emerson Kelly,Paralegal,Clearwater Biotech,Collaborati,277,Approved
+TK-017,Casey Gray,Associate,Cedar Ridge Technologies,Legal Tracker,283,Approved
+TK-018,Alex Reed,Associate,Bluehaven Energy,Legal Tracker,340,Not Approved
+TK-019,Drew Ross,Senior Associate,Summit Retail Holdings,Brightflag,534,Pending Approval
+TK-020,Jamie Perry,Senior Associate,Atlas Property Group,Collaborati,461,Approved
+TK-021,Drew Perry,Partner,Brightpath Communications,Datacert,721,Approved
+TK-022,Taylor Sanders,Paralegal,Clearwater Biotech,Legal Tracker,162,Approved
+TK-023,Parker Bailey,Paralegal,Bluehaven Energy,Billing Point,224,Pending Approval
+TK-023,Parker Bailey,Partner,Northstar Medical Group,Brightflag,760,Approved
+TK-025,Jordan Gray,Senior Associate,Westbridge Hospitality,Legal Tracker,430,Approved
+TK-025,Jordan Gray,Paralegal,Brightpath Communications,Datacert,204,Approved
+TK-027,Reese Reed,Paralegal,Westbridge Hospitality,Legal Tracker,261,Approved
+TK-028,Reese Ross,Paralegal,Evergreen Financial Partners,Counsellink,222,Approved
+TK-029,Casey Hayes,Associate,Pinnacle Education Services,Counsellink,393,Approved
+TK-030,Quinn Brooks,Associate,Atlas Property Group,Billing Point,484,Approved
+TK-017,Casey Gray,Senior Associate,Summit Retail Holdings,Legal Tracker,437,Pending Approval
+TK-025,Jordan Gray,Associate,Silverline Logistics,Counsellink,458,Approved
+TK-033,Parker Hayes,Associate,Silverline Logistics,Brightflag,318,Pending Approval
+TK-034,Morgan Sanders,Paralegal,Redwood Manufacturing,Legal Tracker,219,Pending Approval
+TK-035,Morgan Ross,Associate,Redwood Manufacturing,Legal Tracker,434,Pending Approval
+TK-036,Cameron Bennett,Senior Associate,Meadowbrook Foods,Billing Point,618,Approved
+TK-037,Rowan Reed,Partner,Brightpath Communications,Billing Point,699,Approved
+TK-038,Skyler Morgan,Paralegal,Atlas Property Group,Counsellink,294,Approved
+TK-039,Casey Ward,Associate,Atlas Property Group,Datacert,252,Approved
+TK-040,Reese Foster,Associate,Silverline Logistics,Counsellink,409,Approved
+TK-041,Riley Sanders,Associate,Pinnacle Education Services,Legal Tracker,296,Not Approved
+TK-042,Cameron Kelly,Senior Associate,Evergreen Financial Partners,Brightflag,570,Approved
+TK-043,Alex Sanders,Paralegal,Clearwater Biotech,Legal Tracker,255,Approved
+TK-044,Skyler Coleman,Paralegal,Pinnacle Education Services,Counsellink,157,Approved
+TK-045,Taylor Coleman,Associate,Atlas Property Group,Legal Tracker,391,Approved
+TK-046,Jordan Sanders,Senior Associate,Clearwater Biotech,Billing Point,544,Approved
+TK-047,Alex Murphy,Associate,Evergreen Financial Partners,Counsellink,259,Approved
+TK-048,Taylor Murphy,Associate,Brightpath Communications,Datacert,391,Approved
+TK-049,Parker Perry,Paralegal,Pinnacle Education Services,Datacert,252,Pending Approval
+TK-003,Avery Brooks,Senior Associate,Cedar Ridge Technologies,Legal Tracker,507,Approved
+TK-038,Skyler Morgan,Senior Associate,Summit Retail Holdings,Billing Point,590,Approved
+TK-052,Drew Morgan,Associate,Pinnacle Education Services,Counsellink,294,Approved
+TK-053,Skyler Ward,Associate,Harborstone Insurance,Collaborati,496,Approved
+TK-003,Avery Brooks,Senior Associate,Meadowbrook Foods,Brightflag,559,Approved
+TK-055,Skyler Murphy,Senior Associate,Harborstone Insurance,Counsellink,420,Approved
+TK-056,Riley Hayes,Paralegal,Pinnacle Education Services,Counsellink,224,Approved
+TK-014,Quinn Hayes,Partner,Evergreen Financial Partners,Legal Tracker,787,Approved
+TK-058,Reese Gray,Senior Associate,Clearwater Biotech,Collaborati,462,Approved
+TK-044,Skyler Coleman,Associate,Clearwater Biotech,Legal Tracker,338,Pending Approval
+TK-060,Morgan Foster,Paralegal,Harborstone Insurance,Billing Point,265,Approved
+TK-061,Parker Brooks,Partner,Northstar Medical Group,Legal Tracker,780,Approved
+TK-062,Riley Kelly,Associate,Redwood Manufacturing,Legal Tracker,253,Approved
+TK-063,Cameron Ward,Associate,Summit Retail Holdings,Counsellink,380,Approved
+TK-064,Jamie Kelly,Senior Associate,Atlas Property Group,Brightflag,543,Approved
+TK-065,Emerson Coleman,Partner,Silverline Logistics,Counsellink,638,Approved
+TK-023,Parker Bailey,Associate,Harborstone Insurance,Billing Point,402,Approved
+TK-067,Jamie Morgan,Associate,Atlas Property Group,Counsellink,383,Approved
+TK-035,Morgan Ross,Senior Associate,Silverline Logistics,Collaborati,621,Not Approved
+TK-069,Rowan Hayes,Senior Associate,Harborstone Insurance,Brightflag,370,Approved
+TK-010,Alex Foster,Senior Associate,Pinnacle Education Services,Billing Point,496,Approved
+TK-071,Skyler Kelly,Associate,Brightpath Communications,Datacert,251,Approved
+TK-072,Reese Kelly,Senior Associate,Westbridge Hospitality,Brightflag,396,Approved
+TK-073,Cameron Brooks,Senior Associate,Atlas Property Group,Legal Tracker,422,Approved
+TK-074,Jordan Reed,Associate,Pinnacle Education Services,Billing Point,313,Approved
+TK-010,Alex Foster,Associate,Bluehaven Energy,Collaborati,343,Approved
+TK-076,Jamie Bennett,Associate,Clearwater Biotech,Collaborati,284,Approved
+TK-077,Jordan Bennett,Associate,Northstar Medical Group,Counsellink,289,Approved
+TK-078,Parker Kelly,Partner,Redwood Manufacturing,Datacert,656,Approved
+TK-079,Rowan Foster,Paralegal,Pinnacle Education Services,Brightflag,272,Approved
+TK-080,Casey Perry,Senior Associate,Westbridge Hospitality,Billing Point,389,Approved
+TK-007,Morgan Brooks,Partner,Bluehaven Energy,Legal Tracker,601,Pending Approval
+TK-082,Alex Bailey,Senior Associate,Cedar Ridge Technologies,Legal Tracker,650,Approved
+TK-083,Drew Reed,Paralegal,Pinnacle Education Services,Collaborati,248,Pending Approval
+TK-084,Morgan Reed,Associate,Meadowbrook Foods,Legal Tracker,394,Approved
+TK-085,Quinn Gray,Associate,Summit Retail Holdings,Legal Tracker,323,Approved
+TK-086,Jordan Bailey,Partner,Pinnacle Education Services,Datacert,792,Pending Approval
+TK-087,Quinn Coleman,Partner,Westbridge Hospitality,Legal Tracker,589,Not Approved
+TK-063,Cameron Ward,Associate,Redwood Manufacturing,Datacert,395,Approved
+TK-041,Riley Sanders,Associate,Clearwater Biotech,Billing Point,328,Approved
+TK-090,Quinn Bailey,Paralegal,Atlas Property Group,Counsellink,230,Approved
+TK-091,Quinn Perry,Associate,Atlas Property Group,Brightflag,369,Approved
+TK-092,Morgan Murphy,Associate,Bluehaven Energy,Legal Tracker,275,Pending Approval
+TK-093,Skyler Price,Senior Associate,Westbridge Hospitality,Datacert,410,Approved
+TK-094,Morgan Price,Partner,Northstar Medical Group,Counsellink,627,Approved
+TK-095,Alex Ward,Associate,Summit Retail Holdings,Legal Tracker,465,Approved
+TK-040,Reese Foster,Paralegal,Evergreen Financial Partners,Counsellink,174,Pending Approval
+TK-097,Jordan Coleman,Associate,Bluehaven Energy,Counsellink,337,Approved
+TK-098,Rowan Morgan,Senior Associate,Cedar Ridge Technologies,Counsellink,482,Approved
+TK-099,Cameron Gray,Partner,Silverline Logistics,Counsellink,657,Pending Approval
+TK-100,Drew Ward,Paralegal,Harborstone Insurance,Counsellink,159,Pending Approval
