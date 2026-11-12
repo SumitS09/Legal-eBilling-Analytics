@@ -30,7 +30,7 @@ Net Accepted Amount is **$33,109,794.18**: invoice value minus reductions plus a
 - [Data](Data/) contains the raw and cleaned workbooks, the Power BI source workbook and the three CSVs for SQL.
 - The SQL script contains the analysis queries. [SQL script](SQL/Legal_eBilling_Analysis.sql)
 - Open the dashboard in Power BI Desktop. [Power BI file](PowerBI/Legal_eBilling_Dashboard.pbix)
-- The report covers the methodology, findings and recommendations. [Project report](Legal_eBilling_Project_Report.docx)
+- The report covers the methodology, findings and recommendations. [Project report](Legal_eBilling_Project_Report.pdf)
 - The data dictionary describes the dataset fields. [Data dictionary](Legal_eBilling_Data_Dictionary.xlsx)
 
 To explore the project, start with the dashboard image and report. To run it, import the corrected CSVs into SQL Server before running the script. Open the PBIX in Power BI Desktop, point its Excel source to `Data/PowerBI_DataSource.xlsx` and refresh.
